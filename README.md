@@ -20,7 +20,7 @@ A simple GUI application that lists the contents of archive files (ZIP, 7Z, RAR)
   - py7zr
   - rarfile
 - For RAR support:
-  - Windows: WinRAR
+  - Windows: WinRAR or 7-Zip
   - Linux: `unrar`
   - macOS: `unrar`
 
