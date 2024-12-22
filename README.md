@@ -28,8 +28,8 @@ A simple GUI application that lists the contents of archive files (ZIP, 7Z, RAR)
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/F47E/Zip-Content-Lister.git
-cd Zip-Content-Lister
+git clone https://github.com/F47E/Archive-Content-Lister.git
+cd Archive-Content-Lister
 ```
 
 2. Install required Python packages:
